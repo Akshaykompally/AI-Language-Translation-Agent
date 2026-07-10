@@ -1,0 +1,9 @@
+langchain-mistralai
+langchain-community
+python-dotenv
+streamlit
+langgraph
+pycountry
+pyttsx3
+translator
+gTTS
