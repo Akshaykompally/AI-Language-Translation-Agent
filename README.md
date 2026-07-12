@@ -43,8 +43,7 @@ An AI-powered language translation application built using **LangGraph**, **Lang
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Translator.git
-cd AI-Translator
+git clone https://github.com/Akshaykompally/AI-Language-Translation-Agent.git
 ```
 
 ### 2. Create a virtual environment
